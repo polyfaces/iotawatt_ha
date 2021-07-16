@@ -1,7 +1,7 @@
 """Constants for the iotawatt integration."""
 
 DEFAULT_ICON = "mdi:flash"
-DEFAULT_SCAN_INTERVAL = 30
+DEFAULT_SCAN_INTERVAL = 5
 DOMAIN = "iotawatt"
 COORDINATOR = "coordinator"
 IOTAWATT_API = "iotawatt_api"
